@@ -1,14 +1,15 @@
 # Translators:
 # Hagen Tasche <github@fvbor.de>, 2020
 # Bernd Bestel <bernd@berrnd.de>, 2020
+# Tobias Wolter <towo+grocy@towo.eu>, 2020
 # 
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-01T17:59:17+00:00\n"
-"PO-Revision-Date: 2019-05-01 17:42+0000\n"
-"Last-Translator: Bernd Bestel <bernd@berrnd.de>, 2020\n"
+"PO-Revision-Date: 2020-04-18 00:33+0200\n"
+"Last-Translator: Tobias Wolter <towo+grocy@towo.eu>, 2020\n"
 "Language-Team: German (https://www.transifex.com/grocy/teams/93189/de/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -211,7 +212,7 @@ msgid "Minimum stock amount"
 msgstr "Mindestbestand"
 
 msgid "Default best before days"
-msgstr "Standard Haltbarkeit in Tagen"
+msgstr "Standardhaltbarkeit in Tagen"
 
 msgid "Quantity unit purchase"
 msgstr "Mengeneinheit Einkauf"
@@ -996,7 +997,7 @@ msgstr ""
 "Wert von 0 deaktiviert dies) "
 
 msgid "Default best before days after opened"
-msgstr "Standard Haltbarkeit in Tagen nach dem Öffnen"
+msgstr "Standardhaltbarkeit in Tagen nach dem Öffnen"
 
 msgid "Marked %1$s of %2$s as opened"
 msgstr "%1$s %2$s als geöffnet markiert"
@@ -1038,7 +1039,7 @@ msgid ""
 "Automatically do the booking using the last price and the amount of the "
 "shopping list item, if the product has \"Default best before days\" set"
 msgstr ""
-"Buchung automatisch ausführen, wenn das Produkt \"Standard Haltbarkeit in "
+"Buchung automatisch ausführen, wenn das Produkt \"Standardhaltbarkeit in "
 "Tagen\" hinterlegt hat (als Preis wird der letzte Preis verwendet)"
 
 msgid "Skip"
@@ -1323,7 +1324,7 @@ msgid "Expiring soon days"
 msgstr "\"Bald ablaufend\"-Tage"
 
 msgid "Default location"
-msgstr "Standard Standort"
+msgstr "Standard-Standort"
 
 msgid "Default amount for purchase"
 msgstr "Standardmenge für Einkauf"
@@ -1915,7 +1916,7 @@ msgstr ""
 "Anzahl von Tagen ersetzt"
 
 msgid "Default best before days after freezing"
-msgstr "Standard Haltbartkeit in Tagen nach dem Einfrieren"
+msgstr "Standardhaltbartkeit in Tagen nach dem Einfrieren"
 
 msgid ""
 "On moving this product from a freezer location (so when thawing it), the "
@@ -1926,7 +1927,7 @@ msgstr ""
 "Tagen ersetzt"
 
 msgid "Default best before days after thawing"
-msgstr "Standard Haltbartkeit in Tagen nach dem Auftauen"
+msgstr "Standardhaltbartkeit in Tagen nach dem Auftauen"
 
 msgid "This cannot be the same as the \"From\" location"
 msgstr "Dies kann nicht derselbe Standort wie \"Von Standort\" sein"
@@ -1983,7 +1984,7 @@ msgid "Transaction successfully undone"
 msgstr "Transaktion erfolgreich rückgängig gemacht"
 
 msgid "Default store"
-msgstr "Standard Geschäft"
+msgstr "Standardgeschäft"
 
 msgid "Consume this stock entry"
 msgstr "Verbrauche diesen Bestandseintrag"
